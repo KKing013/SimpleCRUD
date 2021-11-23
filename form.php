@@ -8,7 +8,9 @@
                     Create new User
                 <?php endif ?>
             </h3>
+            <a href="index.php" style="float:right;" class="btn btn-sm btn-outline-info">Home</a>
         </div>
+
         <div class="card-body">
 
             <form method="POST" enctype="multipart/form-data"

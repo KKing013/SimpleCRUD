@@ -10,4 +10,4 @@
     <title>Simple PHP CRUD</title>
 </head>
 
-<body>
+<body class="bg-dark">
