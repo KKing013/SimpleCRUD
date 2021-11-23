@@ -1,4 +1,4 @@
-# SimpleCRUD
+# simpleCRUD
 Basic PHP CRUD with Json data
 
 Simple PHP CRUD application with data saved in JSON file
