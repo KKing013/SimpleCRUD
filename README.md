@@ -2,7 +2,7 @@
 Basic PHP CRUD with Json data
 
 Simple PHP CRUD application with data saved in JSON file
-Features
+
 
     Read users JSON file and display data in bootstrap table
     Implement create and update forms for a user
